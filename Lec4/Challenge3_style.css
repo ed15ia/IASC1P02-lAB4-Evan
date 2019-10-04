@@ -1,20 +1,18 @@
-body {
+.backgroundcolour{
   background-color: green;
-  font-family: "Times New Roman" ,
 }
-
-.redPara{
-  color:red;
-  font-size: 20px;
-  text-align: left;
+.insidebox{
+  border:black 4px dashed;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding-left: 10px;
 }
-
-.greenPara {
-  color: dark green;
-  font-size: 20px;
-  text-align: left;
+p{
+  color: red;
 }
-
-.Outsidethebox {
-  
+p+p{
+  color: darkgreen;
+}
+div~p{
+	color:purple;
 }
