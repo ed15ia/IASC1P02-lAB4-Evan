@@ -1,0 +1,36 @@
+.box{
+  border:purple 3px dashed;
+  padding-top: 200px;
+  padding-bottom: 10px;
+}
+
+p{
+  text-align: center;
+}
+
+#Text1{
+  color: green;
+  font-weight: bold;
+  font-size: 10px;
+}
+
+#Text2{
+  color: orange;
+  text-align: left;
+  font-size: 30px;
+}
+#Text3{
+  color: red;
+  vertical-align: super;
+}
+
+#Text4{
+  color: purple;
+  text-align: right;
+  font-size: 8px;
+}
+#Text5{
+  color: yellow;
+  text-transform: uppercase;
+  font-style: italic;
+}
