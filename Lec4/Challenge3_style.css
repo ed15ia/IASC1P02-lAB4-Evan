@@ -1,0 +1,20 @@
+body {
+  background-color: green;
+  font-family: "Times New Roman" ,
+}
+
+.redPara{
+  color:red;
+  font-size: 20px;
+  text-align: left;
+}
+
+.greenPara {
+  color: dark green;
+  font-size: 20px;
+  text-align: left;
+}
+
+.Outsidethebox {
+  
+}
